@@ -1,31 +1,4 @@
-# Unit testing with Jest
-
-```
-Important: 💻  This exercise is interactive.
-Please follow the instructions.
-```
-
-Most developers today are required not only to write code, but they also need to write code to test their own code 😱, yes.. really.
-
-Today we are going to be using the [jest framework](https://jestjs.io/) to create our first tests.
-
-## 🌱  How to start this project
-
-This project comes with the necessary files to start working, but you have two options to start:
-
-a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest.git
-
-b) You can clone this repository on your local computer:
-```sh
-$ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
-```
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
-
-Then follow this instructions:
-
-1. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
-2. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`
-3. Start the exercise: `$ learnpack start`
+# [![4Geeks Logo](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo")](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16 "4Geeks Logo") Unit testing with Jest
 
 ## What is this exercise about?
 
@@ -37,3 +10,24 @@ We are going to be using the Jest library to build a program capable of converti
 | fromEuroToDollar  | Receives a Euro amount and returns equivalent amount in US Dollar     |
 | fromYenToPound    | Reveives a Yen amount and equivalent amount in England Pound          |
 
+## How can i preview the project?
+
+Note: Make sure that you have node.js installed in your computer by typing in your terminal:
+
+```bash
+$ node -v
+```
+
+Use the following command at the terminal:
+
+Install NPM packages: `npm install`
+
+Note: if you're using c9 make sure you are running in the latest version of node: 
+
+Build for the first time: `npm run start`
+
+### About Me:
+
+Github: [LeyCod](http://https://github.com/LeyCod "LeyCod")
+<br>
+Linkedin: [Emmanuel L. Guacache R.](http://https://www.linkedin.com/in/emmanuelleyan/ "Emmanuel Leyan Guacache Rodriguez")
